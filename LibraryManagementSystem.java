@@ -16,8 +16,8 @@ public class LibraryManagementSystem {
     }
 
     public static void main(String[] args) {
-        login();
-        //create();
+        //login();
+        create();
     }
 
     public static Connection connect() {
