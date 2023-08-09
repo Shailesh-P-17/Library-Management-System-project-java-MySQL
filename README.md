@@ -3,8 +3,11 @@ Developed a Library Management System using Java and Swing. Implemented user aut
 
 
 MySQL Community Server
+
 MySQL JDBC Connector
+
 Java
+
 rs2xml.jar
 
 IDE - Eclipse/ Visual Studio Code
