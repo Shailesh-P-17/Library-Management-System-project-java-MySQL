@@ -3,12 +3,12 @@ Developed a Library Management System using Java and Swing. Implemented user aut
 
 System Requirements:
 
-MySQL Community Server
+1.MySQL Community Server
 
-MySQL JDBC Connector
+2.MySQL JDBC Connector
 
-Java
+3.Java
 
-rs2xml.jar
+4.rs2xml.jar
 
-IDE - Eclipse/ Visual Studio Code
+5.IDE - Eclipse/ Visual Studio Code
